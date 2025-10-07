@@ -59,6 +59,7 @@ header {
 }
 
 header h2 {
+    color: green;
     margin: 0;
     font-size: 2em;
     letter-spacing: 2px;
