@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background-color: #5c3d20;
-    color: white;
+    background-color: #8B4513;
+    color: brown;
     padding: 20px;
 }
 
@@ -22,7 +22,7 @@ main {
 }
 
 footer {
-    background-color: #a8692d;
+    background-color: #8B4513;
     padding: 15px;
     margin-top: 30px;
 }
@@ -70,7 +70,7 @@ header nav {
 
 header nav a {
     display: inline-block;
-    color: #ffeb3b;
+    color: #8B4513;
     margin: 0 15px;
     text-decoration: none;
     font-weight: bold;
@@ -80,8 +80,8 @@ header nav a {
 }
 
 header nav a:hover {
-    background-color: #ffeb3b;
-    color: #0d47a1;
+    background-color: #8B4513;
+    color: #8B4513;
 }
 
 /* Conteúdo principal */
